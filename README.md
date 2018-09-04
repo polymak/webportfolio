@@ -1,6 +1,7 @@
-# projet1
+# Web Portfolio
 
-> Projet1 est un projet avec vue javascript pour une application web
+> Web Portfolio est une Application Web projet développée avec VUEJS.
+Développer par l'Ingénieur Polycarpe MAKOMBO
 
 ## Build Setup
 

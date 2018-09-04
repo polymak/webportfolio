@@ -1,7 +1,7 @@
 {
-  "name": "projet1",
+  "name": "webportfolio",
   "version": "1.0.0",
-  "description": "Projet1 est un projet avec vue javascript pour une application web",
+  "description": "webporfolio est une application web avecdéveloppé vuejs",
   "author": "Polycarpe MAKOMBO <polycarpemakombo@gmail.com>",
   "private": true,
   "scripts": {
